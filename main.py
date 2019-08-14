@@ -9,9 +9,9 @@ import ap_associations
 import ap_statistics
 import time
 
-username='jinlin.zhou@hpe.com'
-password='Newp0int'
-vMM_aosip='10.0.50.10'
+username='admin'
+password='admin#123'
+vMM_aosip='172.31.98.1'
 
 while True:
     #Get the token to access vMM information  -- via API
